@@ -1,12 +1,15 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
-from __future__ import unicode_literals
 
 AUTHOR = 'Ashley Felton'
-SITENAME = 'Work Stuff'
+SITENAME = 'ropable.com'
 SITEURL = ''
+#SITEURL = 'https://ropable.com'
 
 PATH = 'content'
+ARTICLE_PATHS = ['blog']
+ARTICLE_SAVE_AS = '{date:%Y}/{slug}.html'
+ARTICLE_URL = '{date:%Y}/{slug}.html'
 
 TIMEZONE = 'Australia/Perth'
 
@@ -19,17 +22,23 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
-
-# Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+LINKS = (
+    ('Hacker News', 'https://news.ycombinator.com/'),
+)
+SOCIAL = (
+    ('Stack Overflow', 'https://stackoverflow.com/users/14508/ropable'),
+    ('Github', 'https://github.com/ropable'),
+    ('Facebook', 'https://www.facebook.com/ropable'),
+    ('OpenPowerlifting', 'https://www.openpowerlifting.org/u/ashleyfelton'),
+    ('The Crag', 'https://www.thecrag.com/climber/ropable'),
+    ('Twitter', 'https://twitter.com/ropable'),
+    ('LinkedIn', 'https://au.linkedin.com/in/AshleyFelton'),
+)
 
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+THEME = 'templates/hyde'
+PROFILE_IMAGE = 'profile.jpg'
+BIO = "I'm Ashley Felton, a full-stack web developer and sysadmin based in Perth, Western Australia."

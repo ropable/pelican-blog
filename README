@@ -1,4 +1,8 @@
 Useful commands:
 
     pelican content
-    pelican --listen
+    pelican --listen --autoreload
+
+Links:
+
+- https://docs.getpelican.com/en/stable/content.html
