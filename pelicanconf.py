@@ -12,27 +12,22 @@ ARTICLE_SAVE_AS = '{date:%Y}/{slug}.html'
 ARTICLE_URL = '{date:%Y}/{slug}.html'
 
 TIMEZONE = 'Australia/Perth'
-
 DEFAULT_LANG = 'en'
 
-# Feed generation is usually not desired when developing
+# Feed generation
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-LINKS = (
-    ('Hacker News', 'https://news.ycombinator.com/'),
-)
 SOCIAL = (
-    ('Stack Overflow', 'https://stackoverflow.com/users/14508/ropable'),
-    ('Github', 'https://github.com/ropable'),
-    ('Facebook', 'https://www.facebook.com/ropable'),
-    ('OpenPowerlifting', 'https://www.openpowerlifting.org/u/ashleyfelton'),
-    ('The Crag', 'https://www.thecrag.com/climber/ropable'),
-    ('Twitter', 'https://twitter.com/ropable'),
-    ('LinkedIn', 'https://au.linkedin.com/in/AshleyFelton'),
+    ('stack-overflow', 'https://stackoverflow.com/users/14508/ropable'),
+    ('github', 'https://github.com/ropable'),
+    ('facebook', 'https://www.facebook.com/ropable'),
+    ('hacker-news', 'https://news.ycombinator.com/user?id=ropable'),
+    #('twitter', 'https://twitter.com/ropable'),
+    #('linkedin', 'https://au.linkedin.com/in/AshleyFelton'),
 )
 
 DEFAULT_PAGINATION = 10
@@ -41,4 +36,4 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 THEME = 'templates/hyde'
 PROFILE_IMAGE = 'profile.jpg'
-BIO = "I'm Ashley Felton, a full-stack web developer and sysadmin based in Perth, Western Australia."
+BIO = "I'm Ashley Felton, a full-stack web developer and sysadmin based in Perth, WA."
