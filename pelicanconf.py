@@ -21,6 +21,15 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+# Disable category-, tag- and author-related pages:
+AUTHOR_SAVE_AS = ''
+AUTHORS_SAVE_AS = ''
+CATEGORY_SAVE_AS = ''
+CATEGORIES_SAVE_AS = ''
+TAGS_SAVE_AS = ''
+TAG_SAVE_AS = ''
+INDEX_SAVE_AS = 'blog_index.html'
+
 SOCIAL = (
     ('stack-overflow', 'https://stackoverflow.com/users/14508/ropable'),
     ('github', 'https://github.com/ropable'),
