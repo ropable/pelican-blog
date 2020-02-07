@@ -1,5 +1,5 @@
-Title: Welcome
-URL:
+Title: ropable.com
+URL: https://ropable.com
 save_as: index.html
 
 I'm Ashley Felton, a full-stack web developer and sysadmin based in Perth,
@@ -15,6 +15,10 @@ distant, non-cherished memory.
 I enjoy strength training, powerlifting, climbing & bouldering, marvelling at online
 subcultures, learning things on Hacker News, and (lately) 8th-edition Warhammer
 40000.
+
+# Blog
+
+[Nothing of interest to anyone else here.]({index})
 
 # My online footprint
 

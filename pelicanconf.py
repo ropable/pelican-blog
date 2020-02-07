@@ -46,3 +46,14 @@ DEFAULT_PAGINATION = 10
 THEME = 'templates/hyde'
 PROFILE_IMAGE = 'profile.jpg'
 BIO = "I'm Ashley Felton, a full-stack web developer and sysadmin based in Perth, WA."
+
+# Markdown extension config
+# Reference: https://docs.getpelican.com/en/stable/settings.html
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.codehilite': {'css_class': 'highlight'},
+        'markdown.extensions.extra': {},
+        'markdown.extensions.meta': {},
+    },
+        'output_format': 'html5',
+}
