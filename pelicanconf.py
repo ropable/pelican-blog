@@ -55,5 +55,5 @@ MARKDOWN = {
         'markdown.extensions.extra': {},
         'markdown.extensions.meta': {},
     },
-        'output_format': 'html5',
+    'output_format': 'html5',
 }
