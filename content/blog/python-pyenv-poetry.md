@@ -9,11 +9,11 @@ more-modern tools that my using combo of virtualenv and pip.
 
 Links:
 
-* Hypermodern Python setup: https://cjolowicz.github.io/posts/hypermodern-python-01-setup/
-* Overview of Python dependency management tools: https://modelpredict.com/python-dependency-management-tools
-* pyenv: https://github.com/pyenv/pyenv
-* pyenv installer: https://github.com/pyenv/pyenv-installer
-* Poetry: https://python-poetry.org/
+* Hypermodern Python setup: <https://cjolowicz.github.io/posts/hypermodern-python-01-setup/>
+* Overview of Python dependency management tools: <https://modelpredict.com/python-dependency-management-tools>
+* pyenv: <https://github.com/pyenv/pyenv>
+* pyenv installer: <https://github.com/pyenv/pyenv-installer>
+* Poetry: <https://python-poetry.org/>
 
 Easiest install of pyenv:
 
