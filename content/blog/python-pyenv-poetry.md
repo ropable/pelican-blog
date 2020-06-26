@@ -10,6 +10,7 @@ more-modern tools than my usual combo of virtualenv and pip.
 Links:
 
 * Hypermodern Python setup: <https://cjolowicz.github.io/posts/hypermodern-python-01-setup/>
+* Set up an awesome Python environment: <https://towardsdatascience.com/how-to-setup-an-awesome-python-environment-for-data-science-or-anything-else-35d358cc95d5>
 * Overview of Python dependency management tools: <https://modelpredict.com/python-dependency-management-tools>
 * pyenv: <https://github.com/pyenv/pyenv>
 * pyenv installer: <https://github.com/pyenv/pyenv-installer>
