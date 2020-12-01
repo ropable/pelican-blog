@@ -1,5 +1,5 @@
 Title: About me
-Date: 2019-08-13 12:36
+Date: 2020-11-26 15:36
 
 I'm Ashley Felton, a full-stack web developer and sysadmin based in Perth,
 Western Australia. I mostly do backend and architecture, not so much UI. Does it
@@ -12,8 +12,7 @@ physical hardware as much as possible. Weekend callouts to the data centre are a
 distant, non-cherished memory.
 
 I enjoy strength training, powerlifting, climbing & bouldering, marvelling at online
-subcultures, learning things on Hacker News, and (lately) 8th-edition Warhammer
-40000.
+subcultures, learning things on Hacker News, and Warhammer 40000.
 
 # My online footprint
 
