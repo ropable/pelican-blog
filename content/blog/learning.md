@@ -34,7 +34,7 @@ Procrastination
  * But that feeling of pain/unhappiness disappears shortly after engaging in the task.
  * Mental tool: Pomodoro technique
  * 25 minutes timer.
- * Turn of all interruptions.
+ * Turn off all interruptions.
  * Focus
  * Reward when you’re done (web surfing, coffee, stretching, chatting, etc)
 

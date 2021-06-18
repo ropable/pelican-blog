@@ -3,8 +3,7 @@
 
 AUTHOR = 'Ashley Felton'
 SITENAME = 'ropable.com'
-SITEURL = ''
-#SITEURL = 'https://ropable.com'
+SITEURL = 'https://ropable.com'
 
 PATH = 'content'
 ARTICLE_PATHS = ['blog']
