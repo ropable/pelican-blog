@@ -12,13 +12,12 @@ can manage the hardware too, but I prefer to steer clear of working with actual
 physical hardware as much as possible. Weekend callouts to the data centre are a
 distant, non-cherished memory.
 
-I enjoy strength training, powerlifting, climbing & bouldering, marvelling at online
-subcultures, learning cool things on Hacker News, and collecting and painting
-innumerable Warhammer 40000 armies.
+I enjoy woodworking, strength training, powerlifting, rock climbing & bouldering,
+marvelling at online subcultures, learning cool things on Hacker News, and
+collecting and painting innumerable Warhammer 40000 armies.
 
-# Blog
-
-[Nothing of interest to anyone else here.]({index})
+The pronouns I use are he/him (this sentence might act as a Rorschach test about
+whether you want to know me; I sincerely hope that it doesn't).
 
 # My online footprint
 
@@ -27,7 +26,11 @@ innumerable Warhammer 40000 armies.
 - [Instagram](https://www.instagram.com/ropable_snr/)
 - [Facebook](https://www.facebook.com/ropable)
 - [Hacker News](https://news.ycombinator.com/user?id=ropable)
+- [Mastodon](https://mastodon.ropable.com/@ashley)
+- [LinkedIn](https://au.linkedin.com/in/AshleyFelton)
+- [Twitter](https://twitter.com/ropable) (archived)
+
+## Non-IT-related
+
 - [The Crag](https://www.thecrag.com/climber/ropable)
 - [OpenPowerlifting](https://www.openpowerlifting.org/u/ashleyfelton)
-- [Twitter](https://twitter.com/ropable) (not in active use)
-- [LinkedIn](https://au.linkedin.com/in/AshleyFelton) (not in active use)
