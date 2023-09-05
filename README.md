@@ -11,7 +11,7 @@ Useful commands:
 
     pelican content
     pelican --listen --autoreload
-    pelican --listen --autoreload --port 8212 --bind 0.0.0.0
+    pelican --listen --autoreload --port 8211 --bind 0.0.0.0
 
 Links:
 
