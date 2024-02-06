@@ -1,13 +1,13 @@
 [tool.poetry]
 name = "pelican-blog"
-version = "1.1.0"
+version = "1.1.1"
 description = "ropable.com static site generator project"
 authors = ["Ashley Felton <ashley@ropable.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-pelican = "4.8.0"
-markdown = "3.4.4"
+pelican = "4.9.1"
+markdown = "3.5.2"
 typogrify = "2.0.7"
 
 [tool.poetry.dev-dependencies]
