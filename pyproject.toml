@@ -1,17 +1,19 @@
-[tool.poetry]
+[project]
 name = "pelican-blog"
-version = "1.1.1"
+version = "1.2.0"
 description = "ropable.com static site generator project"
-authors = ["Ashley Felton <ashley@ropable.com>"]
-
-[tool.poetry.dependencies]
-python = "^3.9"
-pelican = "4.9.1"
-markdown = "3.5.2"
-typogrify = "2.0.7"
-
-[tool.poetry.dev-dependencies]
+authors = [{ name = "Ashley Felton", email = "ashley@ropable.com" }]
+readme = "README.md"
+requires-python = ">=3.13,<4.0"
+dependencies = ["markdown==3.8.2", "pelican==4.11.0", "typogrify==2.1.0"]
 
 [build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
+
+[tool.ruff]
+line-length = 140
+indent-width = 4
+
+[tool.ruff.lint]
+ignore = ["E265", "E501", "E722"]
