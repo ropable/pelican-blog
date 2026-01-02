@@ -6,9 +6,11 @@ SITENAME = "ropable.com"
 SITEURL = "https://ropable.com"
 
 PATH = "content"
-ARTICLE_PATHS = ["blog"]
-ARTICLE_SAVE_AS = "{date:%Y}/{slug}.html"
-ARTICLE_URL = "{date:%Y}/{slug}.html"
+# INDEX_SAVE_AS = "blog_index.html"
+# ARTICLE_PATHS = ["blog"]
+# ARTICLE_SAVE_AS = "{date:%Y}/{slug}.html"
+# ARTICLE_URL = "{date:%Y}/{slug}.html"
+ARCHIVES_SAVE_AS = ""
 
 TIMEZONE = "Australia/Perth"
 DEFAULT_LANG = "en"
@@ -27,7 +29,6 @@ CATEGORY_SAVE_AS = ""
 CATEGORIES_SAVE_AS = ""
 TAGS_SAVE_AS = ""
 TAG_SAVE_AS = ""
-INDEX_SAVE_AS = "blog_index.html"
 
 SOCIAL = (
     ("stack-overflow", "https://stackoverflow.com/users/14508/ropable"),
